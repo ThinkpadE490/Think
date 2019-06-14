@@ -9,3 +9,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 would you like me?
+yes,I like you.
